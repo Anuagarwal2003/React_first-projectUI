@@ -12,6 +12,7 @@ function App() {
   return (
    <>
    <div className="container text-center text-secondary">
+   <h1>Incremfsfniwnwuifnewuifvneuineiunfeuihfrement</h1>
     
       <h1>Increment/Decrement</h1>
       <h3>Using React & Redux</h3>
